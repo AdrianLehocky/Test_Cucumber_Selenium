@@ -25,6 +25,7 @@ public class Topky extends BrowserDriver {
         driver.findElement(By.xpath(Prominenti)).click();
         driver.findElement(By.xpath(Prominenti)).click();
         driver.findElement(By.xpath(Prominenti)).click();
+        System.out.println("Hi");
     }
 
 }
